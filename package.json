@@ -1,6 +1,6 @@
 {
   "name": "observ-fs-audio-buffer",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Observable AudioBuffer for use with fs.",
   "main": "index.js",
   "scripts": {
