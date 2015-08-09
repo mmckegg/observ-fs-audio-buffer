@@ -3,7 +3,7 @@ observ-fs-audio-buffer
 
 Observable AudioBuffer for use with [fs](https://nodejs.org/api/fs.html).
 
-[![NPM](https://nodei.co/npm/audio-buffer-range-decoder.png)](https://nodei.co/npm/audio-buffer-range-decoder/)
+[![NPM](https://nodei.co/npm/observ-fs-audio-buffer.png)](https://nodei.co/npm/observ-fs-audio-buffer/)
 
 ## Example
 
